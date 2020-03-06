@@ -26,7 +26,7 @@ public class LessCurrentNo {
     public static void main(String[] args) {
         int[] arrs = {8, 1, 2, 2, 3};
         int arr[] = LessCurrentNo.smallerNumbersThanCurrent(arrs);
-        for(int a:arr){
+        for (int a : arr) {
             System.out.println(a);
         }
 
