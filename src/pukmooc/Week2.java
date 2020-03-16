@@ -27,5 +27,6 @@ public class Week2 {
         }else{
             System.out.println("等式不成立");
         }
+
     }
 }
