@@ -7,6 +7,7 @@ package pukmooc;
  */
 public class TestMain {
     public static void main(String[] args) {
+       
         double num = Math.pow(27,1.0/3);
         System.out.println(num);
         int sum =0;
